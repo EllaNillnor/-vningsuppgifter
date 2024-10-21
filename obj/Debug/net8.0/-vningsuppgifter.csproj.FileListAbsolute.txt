@@ -1,0 +1,14 @@
+C:\Github\-vningsuppgifter\bin\Debug\net8.0\-vningsuppgifter.exe
+C:\Github\-vningsuppgifter\bin\Debug\net8.0\-vningsuppgifter.deps.json
+C:\Github\-vningsuppgifter\bin\Debug\net8.0\-vningsuppgifter.runtimeconfig.json
+C:\Github\-vningsuppgifter\bin\Debug\net8.0\-vningsuppgifter.dll
+C:\Github\-vningsuppgifter\bin\Debug\net8.0\-vningsuppgifter.pdb
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.AssemblyInfoInputs.cache
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.AssemblyInfo.cs
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.csproj.CoreCompileInputs.cache
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.dll
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\refint\-vningsuppgifter.dll
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.pdb
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\-vningsuppgifter.genruntimeconfig.cache
+C:\Github\-vningsuppgifter\obj\Debug\net8.0\ref\-vningsuppgifter.dll
